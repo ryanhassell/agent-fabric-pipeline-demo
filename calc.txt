@@ -1,0 +1,3 @@
+data:text/x-code;lang=python;charset=utf-8,def add(a, b):
+    """Return the sum of a and b."""
+    return a + b
